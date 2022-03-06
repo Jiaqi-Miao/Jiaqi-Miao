@@ -1,6 +1,7 @@
 ## Welcome to Jiaqi Miao's Personal Homepage！
 
 ### About me
+![This is an image](http://nebula.wsimg.com/30336bbb3242295936ac7ffc0d45f4ce?AccessKeyId=933CA0CD67A11F9528E9&disposition=0&alloworigin=1)
 
 I received the B.S. degree in Process Equipment and Control Engineering from Dalian University of Technology (DUT), Dalian, China, in 2020. I am currently working toward the Ph.D. degree at [Shenlab](http://www.shenlab.info) in Department of Biomedical Engineering from City University of Hong Kong, Hong Kong SAR, China. My research interests include micro-swimming and active matter. 
 
